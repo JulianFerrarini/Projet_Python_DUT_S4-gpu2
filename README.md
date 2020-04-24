@@ -1,4 +1,4 @@
-# gpu2
+# Projet_JavaScript_DUT_S4 gpu2
 
 Vous trouverez le code qui a été réalisé lors d'un projet en DUT R&T en 2019.
 
